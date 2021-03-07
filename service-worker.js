@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/powerball-simulator/precache-manifest.f5c4af4b2b4bcbad903fb597563cee50.js"
+  "/powerball-simulator/precache-manifest.60bf22d2da5a2b90d8869952f93ba28a.js"
 );
 
 self.addEventListener('message', (event) => {
