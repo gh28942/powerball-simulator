@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8cb65d6f319d6264fd3e17b9674609ba",
+    "revision": "f603cbac816da07399a5b363bfb69172",
     "url": "/powerball-simulator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/powerball-simulator/static/css/2.bac56067.chunk.css"
   },
   {
-    "revision": "524a7b4f2c1046a78887",
+    "revision": "882d3dd887794a258f61",
     "url": "/powerball-simulator/static/css/main.d36242a7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/powerball-simulator/static/js/2.effe3d63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "524a7b4f2c1046a78887",
-    "url": "/powerball-simulator/static/js/main.1beec517.chunk.js"
+    "revision": "882d3dd887794a258f61",
+    "url": "/powerball-simulator/static/js/main.20b7ee5e.chunk.js"
   },
   {
     "revision": "83b993abc618b3a67001",
